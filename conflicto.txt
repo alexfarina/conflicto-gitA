@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Cambio estudiante1" 
+=======
+"Cambio estudiante2" 
+>>>>>>> estudiante2
